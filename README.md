@@ -8,6 +8,6 @@
 <h2 align="center">Active Repositories </h2>
 <p align="center"><a href="https://github.com/Sajith-Madhusankha/device_xiaomi_juice" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Sajith-Madhusankha&repo=device_xiaomi_juice&show_owner=false&theme=dark"></a></p>
 <h2 align="center">
- <img src="https://madewithlove.now.sh/ph?colorB=%233838ff" alt="Made with love in Sri Lanka">
+ <img src="https://madewithlove.now.sh/lk?colorB=%233838ff" alt="Made with love in Sri Lanka">
 </h2>
 
