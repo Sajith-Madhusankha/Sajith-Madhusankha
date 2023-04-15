@@ -6,7 +6,13 @@
 
 > “Insomnia sharpens your math skills because you spend all night calculating how much sleep you’ll get if you’re able to ‘fall asleep right now.’”
 
-Hemlo, I'm sajith 😗, 25 years old & soon to be **Bilogical Science Graduate** 🧬 and **Newbie Peogrammer** 👨‍💻 from Sri lanka 🇱🇰. I'm Currently following CS50 courses from HarvardX. I'm interested in areas such as **Game development** 🕹️, **Artificial Intelligence** 🤖  and **Machine Learning** 🦾. 
+Hemlo, I'm sajith 😗, 25 years old & soon to be **Bilogical Science Graduate** 🧬 and **Newbie Peogrammer** 👨‍💻 from Sri lanka 🇱🇰. I'm Currently following CS50 courses from HarvardX. I'm interested in areas such as **Game development** 🕹️, **Artificial Intelligence** 🤖  and **Machine Learning** 🦾. I'm looking forward to collaborate in projects as soon as I can. Besides these things I like listening to Extreme Metal music 🎸🥁, Watching Thrillers and Documentaries 🍿, Build-botting Custom roms and messing with my phone 📱, reading books 📚, sleeping 🛌 and Eating 🍴 etc etc.... 
+</br>
+</br>
+</br>
+
+<img align="right" alt="GIF" src="<img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif"/>"/>
+
 <p align = "center">
  <h2 align="center"> <img src="https://spotify-recently-played-readme.vercel.app/api?user=31y25rahfhp2q2enoq3ngtq7pbsm&width=1000"/>
 </p>  
