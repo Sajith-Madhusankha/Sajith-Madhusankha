@@ -11,7 +11,7 @@ Hemlo, I'm sajith 😗, 25 years old & soon to be **Bilogical Science Graduate**
 </br>
 </br>
 
-<img align="right" alt="GIF" src="<img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif"/>"/>
+<img align="right" alt="GIF" src="https://media.giphy.com/media/aEY15N0E7waRi/giphy.gif"/>
 
 <p align = "center">
  <h2 align="center"> <img src="https://spotify-recently-played-readme.vercel.app/api?user=31y25rahfhp2q2enoq3ngtq7pbsm&width=1000"/>
