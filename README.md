@@ -6,6 +6,7 @@
 
 > “Insomnia sharpens your math skills because you spend all night calculating how much sleep you’ll get if you’re able to ‘fall asleep right now.’”
 
+Hemlo, I'm sajith 😗, 25 years old & soon to be **Bilogical Science Graduate** 🧬 and **Newbie Peogrammer** 👨‍💻 from Sri lanka 🇱🇰. I'm Currently following CS50 courses from HarvardX. I'm interested in areas such as **Game development** 🕹️, **Artificial Intelligence** 🤖  and **Machine Learning** 🦾. 
 <p align = "center">
  <h2 align="center"> <img src="https://spotify-recently-played-readme.vercel.app/api?user=31y25rahfhp2q2enoq3ngtq7pbsm&width=1000"/>
 </p>  
