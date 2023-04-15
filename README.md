@@ -1,5 +1,11 @@
 <h1 align="center">SAJITH MADHUSANKHA</h1>
 <h3 align="center">Self Learning Newbie Programmer<span color="red"> & </span>Coding Enthusiast <span color="red"> & </span> Undergrad Student of Biological Science</h3>
+
+
+### Hello,Matrix! 👽
+
+> “Insomnia sharpens your math skills because you spend all night calculating how much sleep you’ll get if you’re able to ‘fall asleep right now.’”
+
 <p align = "center">
  <h2 align="center"> <img src="https://spotify-recently-played-readme.vercel.app/api?user=31y25rahfhp2q2enoq3ngtq7pbsm&width=1000"/>
 </p>  
