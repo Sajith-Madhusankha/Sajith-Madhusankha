@@ -2,7 +2,7 @@
  <h2 align="center"> <img src="https://spotify-recently-played-readme.vercel.app/api?user=31y25rahfhp2q2enoq3ngtq7pbsm&width=1000"/>
 </p>  
 <h2 align="center">Github Statistics 📈</h2>
-<p align="center"><a href="https://github.com/code50/85398592"><img src="https://github-readme-stats.vercel.app/api?username=Sajith-Madhusankha&show_icons=true&theme=dark"></a></p>
+<p align="center"><a href="https://github.com/Sajith-Madhusankha"><img src="https://github-readme-stats.vercel.app/api?username=Sajith-Madhusankha&show_icons=true&theme=dark"></a></p>
 <p align="center"><a href="https://github.com/Sajith-Madhusankha"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sajith-Madhusankha&theme=dark&layout=compact"></a></p>
 <p align="Center"><img width="125" src="https://komarev.com/ghpvc/?username=Sajith-Madhusankha&style=flat-square" alt="nathankits"></p>
 <h2 align="center">Active Repositories </h2>
