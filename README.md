@@ -17,7 +17,7 @@ Hemlo, I'm sajith 😗, 25 years old & soon to be **Bilogical Science Graduate**
 </br>
 **Tools :** Git, Github, Visual Studio, VS Code, Spyder, Linux
 
-
+</br>
 <p align = "center">
  <h2 align="center"> <img src="https://spotify-recently-played-readme.vercel.app/api?user=31y25rahfhp2q2enoq3ngtq7pbsm&width=1000"/>
 </p>  
