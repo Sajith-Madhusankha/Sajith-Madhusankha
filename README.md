@@ -27,9 +27,10 @@ Hemlo, I'm sajith 😗, 25 years old & soon to be **Bilogical Science Graduate**
 * 💬 Ask me about anything and I would like to answer.
 * 📫 Please contact me via smadhusankha0@gmail.com
 
-<h2 align="left">Connect With Me:</h2>
+<h2 align="left">Contact Me:</h2>
 
 <div align=center>
+ 
  [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sajith-madhusankha-3ba891189/)
  </div>
  
