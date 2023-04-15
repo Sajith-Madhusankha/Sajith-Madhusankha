@@ -17,7 +17,17 @@ Hemlo, I'm sajith 😗, 25 years old & soon to be **Bilogical Science Graduate**
 </br>
 **Tools :** Git, Github, Visual Studio, VS Code, Spyder, Linux
 
-</br>
+
+**Current Status:**
+----
+
+* 🔭 I’m currently working on my **Python Skills**.
+* 💻 I’m currently following CS50.
+* 👾 My Goal is to develop my own 2D Platformer Game.
+* 💬 Ask me about anything and I would like to answer.
+* 📫 Please contact me via smadhusankha0@gmail.com
+
+
 <p align = "center">
  <h2 align="center"> <img src="https://spotify-recently-played-readme.vercel.app/api?user=31y25rahfhp2q2enoq3ngtq7pbsm&width=1000"/>
 </p>  
