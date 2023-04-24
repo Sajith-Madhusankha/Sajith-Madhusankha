@@ -25,7 +25,7 @@ Hemlo, I'm Sajith 😗, 25 years old & soon to be **Bilogical Science Graduate**
 * 💻 I’m currently following CS50.
 * 👾 My Goal is to develop my own 2D Platformer Game.
 * 💬 Ask me about anything and I would like to answer.
-* 📫 Please contact me via smadhusankha0@gmail.com
+* 📫 Feel free to contact me via smadhusankha0@gmail.com
 
 <h2 align="left">Contact Me:</h2>
 
